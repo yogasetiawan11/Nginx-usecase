@@ -1,7 +1,5 @@
 # What Nginx
-Nginx is a high-performance, open-source web server and reverse proxy server. It is widely used for serving static content (htlm, css), load balancing, and Http caching.
-
-It can used for: 
+Nginx is a high-performance, open-source web server and reverse proxy server. It is widely used for serving static content, load balancing, and Http caching.
 
 
 # Why use Nginx?
