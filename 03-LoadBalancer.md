@@ -78,7 +78,7 @@ sudo systemctl reload nginx
 ```
 
 # Switch Load Balancer
-## Use Least Connection
+## Least Connection
 ```bash
 upstream backend_app {
         least_conn;
